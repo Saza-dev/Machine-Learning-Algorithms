@@ -1,12 +1,7 @@
 # Machine-Learning-Algorithms
 
 ## ✅ Completed Algorithms
-
-- [x] Day 1 - Linear Regression
-- [x] Day 2 - Logistic Regression
-- [ ] Day 3 - Decision Trees
-- [ ] Day 4 - K-Nearest Neighbors
-- [ ] Day 5 - Naive Bayes  
+ 
 ...and many more coming soon!
 
 ## 🧰 Tools & Libraries
