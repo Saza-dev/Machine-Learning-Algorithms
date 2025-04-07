@@ -6,9 +6,10 @@
 
 ## 🧰 Tools & Libraries
 
-- Python 3.x
+- Python
+- R
 - NumPy, Pandas, Matplotlib
-- scikit-learn (used occasionally for comparison)
+- scikit-learn
 
 ## 🤝 Contributions
 
