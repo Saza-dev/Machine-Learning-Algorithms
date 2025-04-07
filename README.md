@@ -7,7 +7,6 @@
 ## 🧰 Tools & Libraries
 
 - Python
-- R
 - NumPy, Pandas, Matplotlib
 - scikit-learn
 
