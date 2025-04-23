@@ -4,7 +4,8 @@
 
 1. Simple Linear Regression
 2. Multiple Linear Regression
-3. Polynomial Regression 
+3. Polynomial Regression
+4. Support Vector Regression
  
 ...and many more coming soon!
 
