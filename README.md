@@ -8,6 +8,7 @@
 4. Support Vector Regression
 5. Decision Tree Regression
 6. Random Forest Regression
+7. Logistic Regression
  
 ...and many more coming soon!
 
