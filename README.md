@@ -10,6 +10,7 @@
 6. Random Forest Regression
 7. Logistic Regression
 8. K-Nearest Neighbors (K-NN)
+9. Support Vector Machine (SVM)
  
 ...and many more coming soon!
 
