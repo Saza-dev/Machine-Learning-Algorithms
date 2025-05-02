@@ -9,6 +9,7 @@
 5. Decision Tree Regression
 6. Random Forest Regression
 7. Logistic Regression
+8. K-Nearest Neighbors (K-NN)
  
 ...and many more coming soon!
 
