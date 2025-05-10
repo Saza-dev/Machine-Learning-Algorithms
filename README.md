@@ -12,6 +12,7 @@
 8. K-Nearest Neighbors (K-NN)
 9. Support Vector Machine (SVM)
 10. Kernel SVM
+11. Naive Bayes
  
 ...and many more coming soon!
 
