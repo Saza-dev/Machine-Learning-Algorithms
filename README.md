@@ -11,6 +11,7 @@
 7. Logistic Regression
 8. K-Nearest Neighbors (K-NN)
 9. Support Vector Machine (SVM)
+10. Kernel SVM
  
 ...and many more coming soon!
 
