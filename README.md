@@ -13,6 +13,7 @@
 9. Support Vector Machine (SVM)
 10. Kernel SVM
 11. Naive Bayes
+12. Decision Tree Classifier
  
 ...and many more coming soon!
 
